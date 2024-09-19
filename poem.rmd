@@ -28,4 +28,33 @@ And the mome raths outgrabe.
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 ## Last Verse
-<!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+<!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->  
+In realms where numbers softly blend,  
+Statistics begins to wend.  
+  
+Data points like stars align,  
+In patterns clear, their stories shine.  
+  
+Mean, the center, holds its ground,  
+Median’s balance, evenly found.  
+  
+Mode, the frequent, makes its mark,  
+In the data’s quiet arc.  
+  
+Standard deviation whispers wide,  
+How data spreads from side to side.  
+  
+Charts and graphs with colors bold,  
+Visual tales of trends unfold.  
+  
+Regression curves predict the way,  
+Forecasting futures, come what may.  
+  
+Hypotheses in tests collide,  
+P-values guide the choice of side.  
+  
+Through sampling, insights take their flight,  
+From randomness to order’s light.  
+  
+In statistics, every figure sings,  
+A symphony of what data brings.  
